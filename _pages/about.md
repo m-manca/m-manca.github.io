@@ -12,8 +12,8 @@ I am a philosopher working at the intersection of philosophy of literature, aest
 </div>
 
 
-Research Interests
-------
+<h2 class="section-category-title">Research Interests</h2>
+<hr />
 <div style="text-align: justify;">
 Although I aim to develop these strands of research in an increasingly integrated way, my main areas of interest can be summarized as follows:
 </div>
@@ -49,8 +49,8 @@ Although I aim to develop these strands of research in an increasingly integrate
 </ol>
 
 
-Featured Work
-------
+<h2 class="section-category-title">Featured Work</h2>
+<hr />
 **[Fictional Books. Theory and Functions of a Fictional Entity](https://brill.com/display/title/75082)**
 De Gruyter Brill, 2026.
 
