@@ -23,7 +23,7 @@ repository               : "m-manca/m-manca.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Martino Manca"
   pronouns         : # example: "she/her"  
   bio              : "Philosopher of literature and aesthetics"
