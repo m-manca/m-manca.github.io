@@ -16,12 +16,12 @@ Research Interests
 ------
 <div style="text-align: justify;">
 Although I aim to develop these strands of research in an increasingly integrated way, my main areas of interest can be summarized as follows:
-
-1. **Philosophy of Literature.** I am particularly interested in the phenomenology of reading, the role of readers in processes of interpretation and meaning-making, and literary forms that challenge or destabilize the notion of sense. I have written on literary nonsense, fictional books, and asemic writing. My current work investigates different modalities of reading, with the broader aim of rethinking reading within the more inclusive category of literary experience.
-1. **Literary Theory and Comparative Literature.** My research interests include reception theory and the study of reading practices, also in their material and sociological dimensions, as well as the work of specific authors such as Italo Calvino and Lewis Carroll. I am currently working on the relationship between literature and biblioclasm.
-1. **Aesthetics.** Starting from questions arising in literature, my broader research engages with debates on aesthetic cognitivism. I am currently developing a project on constitutive not-understanding, extending my earlier work on nonsense and investigating its aesthetic and epistemic value, including its possible relation to open-mindedness.
-1. **Philosophy of Language.** My interests focus on the notions of meaning and reference, particularly in authors such as Frege, Russell, and Wittgenstein, as well as on the semiotics of the text.
 </div>
+
+1. **Philosophy of Literature.** <p style="text-align: justify;"> I am particularly interested in the phenomenology of reading, the role of readers in processes of interpretation and meaning-making, and literary forms that challenge or destabilize the notion of sense. I have written on literary nonsense, fictional books, and asemic writing. My current work investigates different modalities of reading, with the broader aim of rethinking reading within the more inclusive category of literary experience. </p>
+1. **Literary Theory and Comparative Literature.** <p style="text-align: justify;"> My research interests include reception theory and the study of reading practices, also in their material and sociological dimensions, as well as the work of specific authors such as Italo Calvino and Lewis Carroll. I am currently working on the relationship between literature and biblioclasm. </p>
+1. **Aesthetics.** <p style="text-align: justify;"> Starting from questions arising in literature, my broader research engages with debates on aesthetic cognitivism. I am currently developing a project on constitutive not-understanding, extending my earlier work on nonsense and investigating its aesthetic and epistemic value, including its possible relation to open-mindedness. </p>
+1. **Philosophy of Language.** <p style="text-align: justify;"> My interests focus on the notions of meaning and reference, particularly in authors such as Frege, Russell, and Wittgenstein, as well as on the semiotics of the text. </p>
 
 
 Featured Work
