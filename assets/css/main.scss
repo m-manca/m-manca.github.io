@@ -37,3 +37,9 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.archive__item-title:hover,
+.archive__item-title:hover em {
+  text-decoration: none;
+  color: inherit;
+}
