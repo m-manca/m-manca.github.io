@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-I am a philosopher working at the intersection of philosophy of literature, aesthetics, and literary theory. I obtained my PhD in Philosophy at the University of Turin in 2026. Before my doctorate, I studied philosophy at the University of Turin, the École Normale Supérieure Paris-Ulm, and the University of Warwick. I am also an alumnus of the [School of Advanced Studies “Ferdinando Rossi”](https://ssst.campusnet.unito.it/do/home.pl/View?doc=english.html) at the University of Turin, where I obtained my Higher Qualification Degree (EQF Level 8) in December 2021.
+I am a philosopher working at the intersection of philosophy of literature, aesthetics, and literary theory. I obtained my PhD in Philosophy at the University of Turin in 2026. Before my doctorate, I studied philosophy at the University of Turin, the École Normale Supérieure Paris-Ulm, and the University of Warwick. I am also an alumnus of the <a href="https://ssst.campusnet.unito.it/do/home.pl/View?doc=english.html">School of Advanced Studies “Ferdinando Rossi”</a> at the University of Turin, where I obtained my Higher Qualification Degree (EQF Level 8) in December 2021.
 </div>
 
 
