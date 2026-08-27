@@ -22,7 +22,7 @@ Although I aim to develop these strands of research in an increasingly integrate
 
 Featured Work
 ------
-**[Fictional Books. Theory and Functions of a Fictional Entity] (https://brill.com/display/title/75082)**
+**[Fictional Books. Theory and Functions of a Fictional Entity](https://brill.com/display/title/75082)**
 De Gruyter Brill, 2026.
 
 Books like the Necronomicon exist only inside the fiction that creates them, yet they seem to take on a life of their own, long fuelling the curiosity of bibliophiles and literary scholars. Fictional Books brings the philosophy of literature and literary theory together to offer the first systematic study of these artefacts. It provides a historical reconstruction, a definition of fictional books as ficta, and a clear account of their functions. Drawing on a wide range of examples – from Rabelais to contemporary theory-fiction, via Borges, Tolkien, and Calvino – and working across media, the book shows what fictional books can teach us about literariness, authorship, worldbuilding, and metafiction. 
