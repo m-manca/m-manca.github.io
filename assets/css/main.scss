@@ -38,8 +38,6 @@
     "layout/json_cv"
 ;
 
-.archive__item-title:hover,
-.archive__item-title:hover em {
+.archive__item:hover .archive__item-title {
   text-decoration: none;
-  color: inherit;
 }
