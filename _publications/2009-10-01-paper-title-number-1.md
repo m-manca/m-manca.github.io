@@ -7,3 +7,4 @@ date: 2026-12-17
 venue: 'De Gruyter Brill'
 paperurl: 'https://brill.com/display/title/75082'
 citation: 'Manca, Martino. (2026). *Fictional Books: Theory and Functions of a Fictional Entity*. De Gruyter Brill'
+---
