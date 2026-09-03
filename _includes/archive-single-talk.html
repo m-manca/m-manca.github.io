@@ -31,10 +31,21 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.event_dates %}
-  <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.event_dates }}</p>
+   {% if post.status == "accepted" %}
+  <p class="page__meta">
+    <i class="fa fa-clock" aria-hidden="true"></i>
+    Accepted{% if post.event_dates %}, {{ post.event_dates }}{% endif %}
+  </p>
+{% elsif post.event_dates %}
+  <p class="page__meta">
+    <i class="fa fa-clock" aria-hidden="true"></i>
+    {{ post.event_dates }}
+  </p>
 {% elsif post.date %}
-  <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%-d %B %Y' }}</p>
+  <p class="page__meta">
+    <i class="fa fa-clock" aria-hidden="true"></i>
+    {{ post.date | date: '%-d %B %Y' }}
+  </p>
 {% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
