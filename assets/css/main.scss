@@ -47,3 +47,36 @@
 .archive__item-title {
   font-size: 1.1rem;
 }
+
+.featured-work {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+}
+
+.featured-work-cover {
+  width: 180px;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.featured-work-text {
+  flex: 1;
+}
+
+.featured-work-text p {
+  text-align: justify;
+}
+
+@media (max-width: 700px) {
+  .featured-work {
+    display: block;
+  }
+
+  .featured-work-cover {
+    width: 180px;
+    max-width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
