@@ -49,6 +49,9 @@ Although I aim to develop these strands of research in an increasingly integrate
 
 
 <h2 class="section-category-title">Featured Work</h2>
+<img src="/images/fictional-books-cover.jpg"
+       alt="Cover of Fictional Books"
+       style="width: 180px; height: auto;">
 **[Fictional Books. Theory and Functions of a Fictional Entity](https://brill.com/display/title/75082)**<br>
 De Gruyter Brill, 2026.
 
